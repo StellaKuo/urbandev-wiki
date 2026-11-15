@@ -1,0 +1,1250 @@
+[
+  {
+    "id": "urban-renewal-intro",
+    "category": "都市更新",
+    "title": "都市更新是什麼？",
+    "summary": "從基本概念理解都市更新的目的、常見實施方式及地主應注意的事項。",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "基本概念",
+        "body": "都市更新是針對符合條件的都市地區，透過重建、整建或維護改善建築與居住環境的制度。不同案件的適用條件、程序及權利分配可能不同。"
+      },
+      {
+        "heading": "常見實施方式",
+        "body": "實務上常見協議合建與權利變換等安排。地主應先了解估價、費用分擔、分配方式與契約義務，再評估是否參與。"
+      },
+      {
+        "heading": "地主檢查重點",
+        "body": "確認土地與建物權屬、基地條件、分配原則、預估時程、信託安排及履約保障。涉及個案法律效果時，應以主管機關最新規定及專業意見為準。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "dangerous-building-intro",
+    "category": "危老重建",
+    "title": "危老重建入門指南",
+    "summary": "認識危老重建的基本精神，以及與都市更新制度的差異。",
+    "readingMinutes": 3,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "制度目的",
+        "body": "危老重建制度旨在鼓勵符合規定的老舊及危險建築物重建，提升建築安全與居住品質。"
+      },
+      {
+        "heading": "與都市更新有何不同？",
+        "body": "兩者在適用條件、同意程序、審查方式及獎勵規定上有所差異，不能僅以基地面積或屋齡判斷哪一種比較適合。"
+      },
+      {
+        "heading": "評估前準備",
+        "body": "先整理建物使用執照、土地與建物登記資料、屋齡、所有權人狀況及基地法定條件，再向主管機關或專業團隊確認可行性。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "land-development-checklist",
+    "category": "土地開發",
+    "title": "土地開發初步評估清單",
+    "summary": "用一份清單快速整理土地使用分區、容積率、臨路與權屬等核心資訊。",
+    "readingMinutes": 5,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "土地基本資料",
+        "body": "蒐集地段地號、土地面積、所有權與持分、使用分區及地籍圖，確認資料日期及來源。"
+      },
+      {
+        "heading": "建築條件",
+        "body": "查核建蔽率、容積率、道路條件、地形高差、法定空地與可能的特殊管制。實際可建規模仍需建築師依個案檢討。"
+      },
+      {
+        "heading": "財務與整合",
+        "body": "估算整合成本、工程費、稅費、銷售收入與時程風險。初步估算只供篩選案件，不應直接視為正式鑑價或投資保證。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "renewal-contract-checklist",
+    "category": "都市更新",
+    "title": "合建契約簽署前應注意什麼？",
+    "summary": "整理地主與建商合作前值得確認的契約條款與風險分配。",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "分配條件",
+        "body": "確認分回面積、車位、選屋方式、找補機制與估價基準，避免只比較單一分配比例。"
+      },
+      {
+        "heading": "履約保障",
+        "body": "檢視工程期限、遲延責任、融資及信託安排、建商履約能力與爭議處理機制。"
+      },
+      {
+        "heading": "專業審閱",
+        "body": "正式簽約前，建議由熟悉不動產交易的律師及相關專業人士審閱契約。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "floor-area-ratio-basics",
+    "category": "土地開發",
+    "title": "建蔽率與容積率怎麼看？",
+    "summary": "用簡單例子認識建蔽率與容積率，示範 AI 如何依 AGENTS.md 新增文章。",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "兩個指標的差異",
+        "body": "建蔽率通常用來限制建築物投影面積占基地面積的比例；容積率則涉及可計入容積的樓地板面積與基地面積的比例。兩者並不等同於可銷售坪數。"
+      },
+      {
+        "heading": "簡化示例",
+        "body": "假設基地面積為 100 坪、建蔽率 50%、容積率 200%，在不考慮其他限制的概念示例中，建築面積上限約 50 坪、容積樓地板面積約 200 坪；實際開發仍受法規與基地條件限制。"
+      },
+      {
+        "heading": "實務檢核",
+        "body": "應確認土地使用分區、臨路、建築線、停車、退縮、獎勵容積及其他法令，並由專業建築師檢討。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢建築相關法規）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "臺北市都市發展局",
+        "url": "https://udd.gov.taipei/"
+      }
+    ]
+  },
+  {
+    "id": "renewal-process",
+    "category": "都市更新",
+    "title": "都市更新從提案到完工",
+    "summary": "了解整合、審議、施工與交屋的主要階段",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "前期整合",
+        "body": "先盤點土地建物、所有權人與基地條件，建立共同目標。整合期間應記錄意向與爭議，不宜把口頭支持視為正式同意。"
+      },
+      {
+        "heading": "計畫與審議",
+        "body": "依案件實施方式準備都市更新事業計畫及相關文件，是否需要權利變換計畫應按個案確認。審議時程受補正與爭議影響。"
+      },
+      {
+        "heading": "施工及交屋",
+        "body": "核定後仍須處理拆遷、融資、工程與產權登記。應建立工程進度、驗收及分配交付清單。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢都市更新條例）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "rights-transformation",
+    "category": "都市更新",
+    "title": "權利變換基本概念",
+    "summary": "理解更新前權利價值與更新後分配的關係",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "制度目的",
+        "body": "權利變換以估價與法定程序處理權利人參與更新後的權利分配，不等於每位地主直接按原坪數換回相同坪數。"
+      },
+      {
+        "heading": "估價與費用",
+        "body": "更新前權利價值、更新後房地價值、共同負擔及選配結果都會影響分配。應檢視估價基準與相關報告。"
+      },
+      {
+        "heading": "地主應注意",
+        "body": "確認選配原則、差額價金、異議程序與公告內容；複雜爭議宜請估價師及律師協助。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢都市更新條例）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "joint-development",
+    "category": "都市更新",
+    "title": "協議合建與權利變換比較",
+    "summary": "比較兩種常見合作與分配方式",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "協議合建",
+        "body": "地主與建商透過契約約定出資、興建及分回條件，談判彈性較大，但契約保障尤其重要。"
+      },
+      {
+        "heading": "權利變換",
+        "body": "依都市更新相關法定程序辦理估價、負擔與分配，適用條件和程序與協議合建不同。"
+      },
+      {
+        "heading": "如何選擇",
+        "body": "應比較同意情形、地主需求、稅務、融資、工程風險及退出機制，不宜只比較表面分回比例。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢都市更新條例）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "renewal-consent",
+    "category": "都市更新",
+    "title": "都市更新同意與整合",
+    "summary": "為什麼同意比例與權屬整理重要",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "確認權利人",
+        "body": "土地與合法建築物所有權可能不同，且存在共有、繼承未辦或抵押情形，應先確認名冊。"
+      },
+      {
+        "heading": "同意門檻",
+        "body": "同意條件會因適用程序及法規而不同，不能用單一百分比套用所有案件。應查核現行法令。"
+      },
+      {
+        "heading": "溝通紀錄",
+        "body": "保存說明會資料、版本、同意書與撤回或異議紀錄，避免不同版本造成誤解。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢都市更新條例）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "renewal-incentives",
+    "category": "都市更新",
+    "title": "都市更新容積獎勵概覽",
+    "summary": "理解獎勵並非自動取得的額外樓地板",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "獎勵的意義",
+        "body": "容積獎勵用來鼓勵符合公共利益、建築安全等政策目標的更新行為，但有適用條件與審查程序。"
+      },
+      {
+        "heading": "試算方式",
+        "body": "先確認基準容積、適用項目、上限與是否重複計算，再建立保守及樂觀情境。"
+      },
+      {
+        "heading": "常見誤區",
+        "body": "獎勵額度不代表全部可售面積，還要考慮建築配置、法定限制及成本。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢都市更新條例）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "renewal-valuation",
+    "category": "都市更新",
+    "title": "都市更新估價怎麼看",
+    "summary": "讀懂估價報告中的關鍵假設",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "價格基準",
+        "body": "估價報告通常涉及價格日期、比較案例、權利條件與估價方法；不同前提可能帶來差異。"
+      },
+      {
+        "heading": "檢查比較案例",
+        "body": "比較區位、屋齡、道路、使用分區與交易條件，避免只看最高成交單價。"
+      },
+      {
+        "heading": "分配影響",
+        "body": "估價結果會影響權利分配與差額，疑義應循程序提出並請專業人員說明。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢都市更新條例）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "renewal-trust",
+    "category": "都市更新",
+    "title": "都市更新信託機制",
+    "summary": "了解土地信託與工程資金管理",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "信託的角色",
+        "body": "信託常用於協助管理土地權利、資金及工程流程，但具體保障取決於契約設計。"
+      },
+      {
+        "heading": "應檢查事項",
+        "body": "確認受託人權限、撥款條件、違約處理、受益權及信託終止後的產權移轉。"
+      },
+      {
+        "heading": "風險提醒",
+        "body": "信託不等於保證完工，仍須檢查建商履約能力、融資及保證安排。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢都市更新條例）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "renewal-disputes",
+    "category": "都市更新",
+    "title": "都更常見爭議與溝通",
+    "summary": "整理分配、時程與資訊不對稱問題",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "分配爭議",
+        "body": "地主可能對選配、樓層、車位或差額價金有不同期待，應提供可追溯的計算基礎。"
+      },
+      {
+        "heading": "時程爭議",
+        "body": "審議、拆遷與施工皆有不確定性，應用階段性里程碑管理。"
+      },
+      {
+        "heading": "處理原則",
+        "body": "將問題書面化、保留會議紀錄並使用正式申訴或協商管道。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢都市更新條例）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "renewal-tax",
+    "category": "都市更新",
+    "title": "都更稅務檢查清單",
+    "summary": "先辨識交易與取得方式，再進行稅務評估",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "交易類型",
+        "body": "合建、權利變換、出售與贈與的稅務效果不一定相同。"
+      },
+      {
+        "heading": "稅目盤點",
+        "body": "依個案確認土地增值稅、契稅、所得稅、房地合一及其他適用規定。"
+      },
+      {
+        "heading": "實務建議",
+        "body": "保存取得成本、契約、費用憑證與持有期間資料，並由稅務專業人士按當年度法令試算。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢都市更新條例）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "renewal-selection",
+    "category": "都市更新",
+    "title": "更新後房屋選配重點",
+    "summary": "從坪數、位置與價值三面向看選配",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "分配依據",
+        "body": "選配通常須遵循核定計畫或契約，不能單靠口頭承諾。"
+      },
+      {
+        "heading": "選屋考量",
+        "body": "除室內面積外，也應比較樓層、座向、公設、車位及管理成本。"
+      },
+      {
+        "heading": "確認文件",
+        "body": "核對圖面、價值表、找補規則與交屋標準，保留正式版本。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢都市更新條例）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "dangerous-building-eligibility",
+    "category": "危老重建",
+    "title": "危老重建適用條件",
+    "summary": "先確認建物資格與基地限制",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "建物條件",
+        "body": "危老制度對建物及基地設有法定要件，應查核建物合法性、使用狀況與評估結果。"
+      },
+      {
+        "heading": "基地條件",
+        "body": "道路、土地使用分區及其他建築限制，會影響是否能依預期重建。"
+      },
+      {
+        "heading": "確認方式",
+        "body": "先向所在地主管機關或合格專業機構確認適用條件，避免先簽約後才發現不符。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢危老重建條例）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "structural-assessment",
+    "category": "危老重建",
+    "title": "耐震評估與危老申請",
+    "summary": "了解建築安全評估在重建中的角色",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "評估目的",
+        "body": "耐震與結構安全評估協助判斷建築物安全狀況，應由具資格的專業人員依規定辦理。"
+      },
+      {
+        "heading": "準備資料",
+        "body": "可先整理建物登記、使用執照、圖說與現況照片，缺件時向主管機關詢問替代程序。"
+      },
+      {
+        "heading": "結果運用",
+        "body": "評估結果只是申請條件之一，仍須核對土地、權利及計畫等其他要求。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢危老重建條例）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "dangerous-building-consent",
+    "category": "危老重建",
+    "title": "危老地主同意怎麼談",
+    "summary": "理解所有權與整合的實際難題",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "權利清查",
+        "body": "同一建築物可能涉及多筆土地、共有權與繼承問題，先清查完整名冊。"
+      },
+      {
+        "heading": "溝通順序",
+        "body": "先說明建築安全、可行方案、費用及分回方式，再討論契約。"
+      },
+      {
+        "heading": "文件確認",
+        "body": "同意程序依現行危老法令辦理；切勿以口頭支持取代法定書面文件。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢危老重建條例）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "dangerous-building-bonus",
+    "category": "危老重建",
+    "title": "危老容積獎勵怎麼評估",
+    "summary": "避免把獎勵上限當成確定可取得",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "條件與時點",
+        "body": "危老獎勵可能受申請時點、基地條件及其他法定項目影響，應查詢現行規定。"
+      },
+      {
+        "heading": "建築可行性",
+        "body": "即使取得容積獎勵，建蔽、退縮、高度及停車等規定仍可能限制設計。"
+      },
+      {
+        "heading": "試算建議",
+        "body": "分別試算基準容積、可能獎勵與實際可配置量，標示未確認假設。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢危老重建條例）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "dangerous-building-timeline",
+    "category": "危老重建",
+    "title": "危老重建流程與時程",
+    "summary": "從評估、整合到建築許可",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "前期評估",
+        "body": "先完成權屬與建築條件盤點，確認重建方向及參與者。"
+      },
+      {
+        "heading": "計畫申請",
+        "body": "依所在地規定準備重建計畫與必要附件，審查及補件時間應留緩衝。"
+      },
+      {
+        "heading": "後續工程",
+        "body": "取得必要許可後進入拆除、施工與使用執照階段，應持續管理成本與工期。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢危老重建條例）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "dangerous-vs-renewal",
+    "category": "危老重建",
+    "title": "危老與都更如何選擇",
+    "summary": "從基地、程序與分配需求比較",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "適用資格",
+        "body": "兩種制度各有基地與建物要件，不能直接互相替代。"
+      },
+      {
+        "heading": "整合與分配",
+        "body": "應比較同意要求、法定程序、合建模式及是否涉及權利變換。"
+      },
+      {
+        "heading": "決策方法",
+        "body": "用同一套面積、成本、銷售與風險假設比較方案，並請主管機關確認。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢危老重建條例）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "dangerous-building-finance",
+    "category": "危老重建",
+    "title": "危老重建資金規劃",
+    "summary": "整理自建與合建常見的資金問題",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "資金需求",
+        "body": "除營造費外，還有設計、申請、拆除、利息、稅費及備用金。"
+      },
+      {
+        "heading": "融資條件",
+        "body": "銀行通常評估擔保、權利狀態、工程計畫及還款來源，個案條件各異。"
+      },
+      {
+        "heading": "風險管理",
+        "body": "設計資金缺口情境，避免因銷售延遲或工程追加而停工。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢危老重建條例）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "dangerous-building-contract",
+    "category": "危老重建",
+    "title": "危老合建契約重點",
+    "summary": "簽約前要確認的分回與履約條款",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "分配條件",
+        "body": "契約應清楚記載分回標的、面積計算、車位、選屋及找補機制。"
+      },
+      {
+        "heading": "履約保障",
+        "body": "檢視信託、工程保證、違約責任與建商資金安排。"
+      },
+      {
+        "heading": "變更與退出",
+        "body": "約定設計變更、工期延誤、不可抗力及爭議解決方式。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢危老重建條例）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "dangerous-building-owners",
+    "category": "危老重建",
+    "title": "共有與繼承對危老的影響",
+    "summary": "權利不完整可能使整合停滯",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "共有狀況",
+        "body": "共有土地或建物需釐清持分、代表人與法定同意方式。"
+      },
+      {
+        "heading": "繼承問題",
+        "body": "登記名義人過世而未辦繼承時，應先確認繼承人與登記程序。"
+      },
+      {
+        "heading": "事前準備",
+        "body": "建立權利關係圖與待補文件清單，避免申請後才發現障礙。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢危老重建條例）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "dangerous-building-design",
+    "category": "危老重建",
+    "title": "危老建築配置入門",
+    "summary": "容積之外還要考慮建蔽、停車與動線",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "法規限制",
+        "body": "建蔽率、退縮、採光、防火與高度限制都會影響量體。"
+      },
+      {
+        "heading": "地下室規劃",
+        "body": "停車位數、開挖深度、地下水與鄰房安全會改變成本。"
+      },
+      {
+        "heading": "方案比較",
+        "body": "至少提出兩種量體配置並比較可售面積、工程難度與風險。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢危老重建條例）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "zoning-basics",
+    "category": "土地開發",
+    "title": "土地使用分區入門",
+    "summary": "從使用分區理解土地能做什麼",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "分區意義",
+        "body": "住宅、商業、工業等分區有不同使用管制，名稱相同也可能因都市計畫而有差異。"
+      },
+      {
+        "heading": "查詢資料",
+        "body": "使用所在地政府都市計畫與土地使用分區查詢系統，核對地號及公告圖說。"
+      },
+      {
+        "heading": "判讀提醒",
+        "body": "圖面套繪僅供初步判讀，正式開發仍應取得主管機關認定資料。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢建築及土地法規）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "floor-area-ratio",
+    "category": "土地開發",
+    "title": "容積率與建蔽率怎麼算",
+    "summary": "建立土地開發的基礎面積概念",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "建蔽率",
+        "body": "建蔽率通常用於限制建築物投影面積相對基地面積的比例，仍須依適用規定判斷。"
+      },
+      {
+        "heading": "容積率",
+        "body": "容積率反映可計容積樓地板面積與基地面積的關係，不等於總銷售坪數。"
+      },
+      {
+        "heading": "簡易例子",
+        "body": "假設基地 100 坪、容積率 200%，初步可計容積樓地板為 200 坪；實際仍受法規、獎勵及設計限制。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢建築及土地法規）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "land-ownership-record",
+    "category": "土地開發",
+    "title": "土地謄本怎麼看",
+    "summary": "讀懂權利範圍、限制登記與持分",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "基本資料",
+        "body": "確認地號、面積、所有權人與登記原因，避免混淆不同地號。"
+      },
+      {
+        "heading": "權利範圍",
+        "body": "共有土地要依持分計算個別權利面積，持分坪數不等於可獨立使用面積。"
+      },
+      {
+        "heading": "負擔與限制",
+        "body": "檢查抵押、查封、地上權及其他登記事項，必要時請地政專業人士協助。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢建築及土地法規）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "land-assembly",
+    "category": "土地開發",
+    "title": "地主整合的實務流程",
+    "summary": "如何建立可追蹤的整合進度",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "名冊與分群",
+        "body": "先以地號、權利人、持分及聯絡進度建立清冊，個資需妥善保護。"
+      },
+      {
+        "heading": "條件溝通",
+        "body": "區分願售、觀望與有特殊需求的地主，記錄各自關切事項。"
+      },
+      {
+        "heading": "文件管理",
+        "body": "將委託、出價、議價及簽約資料版本化，避免不同承諾相互衝突。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢建築及土地法規）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "land-valuation",
+    "category": "土地開發",
+    "title": "土地估價基本方法",
+    "summary": "比較法、收益與開發分析的入門觀念",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "比較市場",
+        "body": "蒐集區位、使用分區、臨路及交易條件相近的案例，進行合理調整。"
+      },
+      {
+        "heading": "開發分析",
+        "body": "從預估銷售收入扣除工程、稅費、管銷、融資及合理利潤，反推土地承受價格。"
+      },
+      {
+        "heading": "敏感度",
+        "body": "至少測試售價、工期、成本與容積變化，避免只依單一樂觀假設決策。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢建築及土地法規）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "residual-land-value",
+    "category": "土地開發",
+    "title": "土地殘餘價值試算",
+    "summary": "用開發收益回推土地可負擔價格",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "基本公式",
+        "body": "簡化概念為土地可負擔成本等於預估總收入減去非土地開發成本與目標利潤。"
+      },
+      {
+        "heading": "成本項目",
+        "body": "應包含營造、設計、銷售、融資、稅費及風險準備，並確認是否重複計列。"
+      },
+      {
+        "heading": "限制提醒",
+        "body": "這是初步投資分析，不是正式估價；容積、可售比與市場售價須有可靠依據。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢建築及土地法規）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "road-access",
+    "category": "土地開發",
+    "title": "臨路條件與建築線",
+    "summary": "為什麼有道路不一定能直接建築",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "道路性質",
+        "body": "道路外觀可通行不代表符合建築法規所需道路條件，應查核道路權屬及主管機關認定。"
+      },
+      {
+        "heading": "建築線",
+        "body": "申請建築前通常需要釐清建築線、退縮及出入口配置。"
+      },
+      {
+        "heading": "開發風險",
+        "body": "道路寬度、通行權及消防救災需求可能影響可建築面積。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢建築及土地法規）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "hillside-development",
+    "category": "土地開發",
+    "title": "山坡地開發初步評估",
+    "summary": "坡度、地質與水土保持的關鍵問題",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "坡度判讀",
+        "body": "平均坡度不足以代表每個局部區域的可開發性，需搭配測量與地形資料。"
+      },
+      {
+        "heading": "安全與法規",
+        "body": "應查核山坡地範圍、地質敏感、排水及水土保持等規定。"
+      },
+      {
+        "heading": "專業評估",
+        "body": "涉及擋土、開挖與邊坡安全時，應委託建築、土木及大地技師評估。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢建築及土地法規）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "joint-building-ratio",
+    "category": "土地開發",
+    "title": "合建分屋比例怎麼談",
+    "summary": "從分配價值與成本看合建條件",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "基本觀念",
+        "body": "地主分回比例與建商分回比例通常反映土地價值、建築成本與風險分攤。"
+      },
+      {
+        "heading": "試算方式",
+        "body": "以預估總銷售價值、營造及相關成本建立財務模型，再討論合理分配。"
+      },
+      {
+        "heading": "契約細節",
+        "body": "應同時談選屋、車位、坪數差異、找補及工期保障，不能只談單一百分比。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢建築及土地法規）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "construction-costs",
+    "category": "土地開發",
+    "title": "營造成本估算入門",
+    "summary": "不要只用地上樓地板估算工程費",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "成本拆分",
+        "body": "結構、機電、外牆、公共設施、地下室與特殊工法均可能影響成本。"
+      },
+      {
+        "heading": "地下室影響",
+        "body": "開挖層數、地下水、鄰房及停車配置會改變工程難度與費用。"
+      },
+      {
+        "heading": "估算原則",
+        "body": "分開列示地上、地下及其他費用，並保留物價及變更設計的備用金。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢建築及土地法規）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "development-risk",
+    "category": "土地開發",
+    "title": "土地開發風險清單",
+    "summary": "用風險矩陣降低決策盲點",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "法規風險",
+        "body": "分區、建築線、容積、坡地與環評等條件須先確認。"
+      },
+      {
+        "heading": "財務風險",
+        "body": "售價下修、成本上升、利率變動及資金斷鏈都可能侵蝕利潤。"
+      },
+      {
+        "heading": "執行風險",
+        "body": "整合失敗、權屬爭議、工程延誤與承包商履約能力都應建立應對方案。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢建築及土地法規）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "land-auction",
+    "category": "土地開發",
+    "title": "法拍土地初步查核",
+    "summary": "拍賣價格之外還有權利與點交問題",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "公告閱讀",
+        "body": "確認標的範圍、拍賣條件、占有情況與是否點交。"
+      },
+      {
+        "heading": "權利調查",
+        "body": "查核共有、租賃、抵押、地上權與其他可能影響使用的事項。"
+      },
+      {
+        "heading": "資金安排",
+        "body": "預先確認保證金、尾款期限、稅費及無法取得融資的情境。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢建築及土地法規）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "development-feasibility",
+    "category": "土地開發",
+    "title": "土地開發可行性報告架構",
+    "summary": "將法規、財務與市場資料整理成決策報告",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "基地條件",
+        "body": "列出地號、面積、分區、道路、權屬及現況限制。"
+      },
+      {
+        "heading": "財務分析",
+        "body": "統一面積口徑，列示可售面積、售價、成本、融資與利潤假設。"
+      },
+      {
+        "heading": "決策結論",
+        "body": "區分已確認、待確認與不可行事項，提出下一步調查與停損條件。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢建築及土地法規）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  },
+  {
+    "id": "sales-comparables",
+    "category": "土地開發",
+    "title": "新建案售價比較技巧",
+    "summary": "建立可追溯的市場比較資料",
+    "readingMinutes": 4,
+    "updated": "2026-11-15",
+    "sections": [
+      {
+        "heading": "選擇案例",
+        "body": "以相近生活圈、產品型態、樓層與成交期間為優先。"
+      },
+      {
+        "heading": "調整差異",
+        "body": "比較車位拆算、坪數、建材、公設及預售與成屋條件。"
+      },
+      {
+        "heading": "避免偏誤",
+        "body": "開價不等於成交價，少數高價案例不能直接代表整體市場。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "全國法規資料庫（查詢建築及土地法規）",
+        "url": "https://law.moj.gov.tw/"
+      },
+      {
+        "label": "內政部國土管理署",
+        "url": "https://www.nlma.gov.tw/"
+      }
+    ]
+  }
+]

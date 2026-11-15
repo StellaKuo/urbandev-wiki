@@ -1,0 +1,11 @@
+{
+  "name": "urbandev-wiki",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:data": "node scripts/build-data.mjs",
+    "test": "node scripts/validate.mjs",
+    "check": "npm run build:data && npm test"
+  }
+}
